@@ -5,12 +5,15 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Erick Calixto David Silva
+- Matricula: 1628583
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![alt text](image.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
+![alt text](image-1.png)
 
+## Endpoint Escolhido
+* **Listagem Inicial (Padrão):** `GET /movie/popular` — Retorna a lista dos filmes mais populares do momento para preencher a tela assim que o usuário acessa o site.
+* **Mecanismo de Busca:** `GET /search/movie` — Ativado dinamicamente quando o usuário digita
